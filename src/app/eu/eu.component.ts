@@ -10,7 +10,7 @@ export class EuComponent implements OnInit {
   idade: string = "33 anos";
   gosto: string = "Escutar música, tocar o violão, comer, programar e dormir (muito)";
   pais: string = "Argentina";
-  urlImagen: string = "./IMG_9952.JPG";
+  urlImagen: string = "./assets/IMG_9952.JPG";
   
   constructor() { }
 
